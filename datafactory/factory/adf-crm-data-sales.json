@@ -1,0 +1,15 @@
+{
+	"name": "adf-crm-data-sales",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0e97bd33-e853-41a8-9276-16b19d6c31b0",
+		"tenantId": "b853da7e-e01f-4fbd-b28e-1066e9321600"
+	}
+}
